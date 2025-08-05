@@ -3,15 +3,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-da-silva-de-santana-171a712b3/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.psilva._/)
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSantana23&show_icons=true&theme=dark)
+<a href="https://github.com/PedroSantana23">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSantana23&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantana23&layout=compact&langs_count=6&theme=radical"/>
+</a>
 
-## Minha stack de tecnologias
+<div style="display: inline-block">
+    
+<h2> Skills Back end</h2>
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=java,ts,spring,nodejs,prisma,mysql,postgres,mongo&theme=dark)](https://skillicons.dev)
+
+<h2> Skills Front end</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,figma&theme=dark)](https://skillicons.dev)
+
 </div>
