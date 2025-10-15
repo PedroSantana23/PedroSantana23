@@ -12,7 +12,7 @@
     
 <h2> Skills Back end</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,ts,spring,nodejs,prisma,mysql,postgres,mongo&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,django,nodejs,prisma,postgres,mongo&theme=dark)](https://skillicons.dev)
 
 <h2> Skills Front end</h2>
 
