@@ -1,21 +1,51 @@
-### Olá! Eu sou o Pedro Henrique 👋
+<h1 align="center">Olá! Eu sou o Pedro Henrique 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-da-silva-de-santana-171a712b3/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.psilva._/)
+<p align="center">
+  Desenvolvedor Full-Stack e estudante de Ciência da Computação (CEUB).<br>
+</p>
 
-<a href="https://github.com/PedroSantana23">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSantana23&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantana23&layout=compact&langs_count=6&theme=radical"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-henrique-da-silva-de-santana-171a712b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/_.psilva._/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:ph.silva.santana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-<div style="display: inline-block">
-    
-<h2> Skills Back end</h2>
+---
 
-[![My Skills](https://skillicons.dev/icons?i=python,ts,django,nodejs,express,prisma,postgres,mongo,docker&theme=dark)](https://skillicons.dev)
+## 🚀 Sobre mim
 
-<h2> Skills Front end</h2>
+- 🎓 Cursando Ciência da Computação no CEUB (conclusão em Dez/2026)
+- 💼 Estagiário de TI no SERPRO, atuando com desenvolvimento web e automações
+- 🔭 Buscando oportunidades como desenvolvedor júnior
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,styledcomponents,figma&theme=dark)](https://skillicons.dev)
+---
 
-</div>
+## 🛠️ Tecnologias
+
+### Back end
+[![My Skills](https://skillicons.dev/icons?i=python,ts,django,nodejs,nestjs,prisma,postgres,redis,docker&theme=dark)](https://skillicons.dev)
+
+### Front end
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,styledcomponents,figma&theme=dark)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+ 
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos por linguagem"/>
+  <img width="49%" src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Linguagem mais usada"/>
+</p>
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/radical/3-stats.svg" alt="Estatísticas"/>
+  <img width="49%" src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Horário produtivo"/>
+</p>
+<p align="center">
+  <img width="80%" src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Detalhes do perfil"/>
+</p>
