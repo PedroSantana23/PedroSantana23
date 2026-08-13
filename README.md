@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Pedro Henrique 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full-Stack e estudante de Ciência da Computação (CEUB).<br>
+  Desenvolvedor Full-Stack e estudante de Ciência da Computação.<br>
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Cursando Ciência da Computação no CEUB (conclusão em Dez/2026)
+- 🎓 Cursando Ciência da Computação
 - 💼 Estagiário de TI no SERPRO, atuando com desenvolvimento web e automações
-- 🔭 Buscando oportunidades como desenvolvedor júnior
+- 🔭 Buscando novas oportunidades como desenvolvedor
 
 ---
 
