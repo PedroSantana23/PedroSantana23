@@ -29,23 +29,19 @@
 ## 🛠️ Tecnologias
 
 ### Back end
-[![My Skills](https://skillicons.dev/icons?i=python,ts,django,nodejs,nestjs,prisma,postgres,redis,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,django,nodejs,prisma,postgres,docker&theme=dark)](https://skillicons.dev)
 
 ### Front end
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,styledcomponents,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,styledcomponents,figma&theme=dark)](https://skillicons.dev)
 
 ---
 
 ## 📊 GitHub Stats
- 
+
 <p align="center">
-  <img width="49%" src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos por linguagem"/>
-  <img width="49%" src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Linguagem mais usada"/>
+  <img width="29%" src="./profile-summary-card-output/radical/3-stats.svg" alt="Estatísticas"/>
+  <img width="60%" src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Detalhes do perfil"/>
 </p>
 <p align="center">
-  <img width="49%" src="./profile-summary-card-output/radical/3-stats.svg" alt="Estatísticas"/>
-  <img width="49%" src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Horário produtivo"/>
-</p>
-<p align="center">
-  <img width="80%" src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Detalhes do perfil"/>
+  
 </p>
