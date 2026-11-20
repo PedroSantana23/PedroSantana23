@@ -22,7 +22,7 @@
 
 - 🎓 Cursando Ciência da Computação
 - 💼 Estagiário de TI no SERPRO, atuando com desenvolvimento web e automações
-- 🔭 Buscando novas oportunidades como desenvolvedor
+- 🔭 Buscando novas oportunidades
 
 ---
 
